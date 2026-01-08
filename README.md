@@ -26,6 +26,3 @@ A series of 10 assignments applying the concepts above. These focus on:
 * *Language:* Python 3.x
 * *Libraries:* NumPy, Pandas
 * *Tool:* Jupyter Notebooks
-* *Language:* Python 3.x
-* *Libraries:* NumPy, Pandas
-* *Tool:* Jupyter Notebooks
